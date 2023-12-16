@@ -11,11 +11,6 @@ execute the following command to generate files:
     dart run build_runner watch --delete-conflicting-outputs
     ```
 
-    or watch command in order to keep the source code synced automatically:
-
-    ```
-    dart run build_runner watch
-    ```
 - This project uses Flutter Intl for localization support
     - [Flutter Intl for Android Studio](https://plugins.jetbrains.com/plugin/13666-flutter-intl/)
     - [Flutter Intl for VS Code](https://pub.dev/packages/intl)
